@@ -74,6 +74,8 @@ module.exports = {
             spacing: {
                 128: "829px",
                 card: "95vh",
+                hnavbar: "90vh",
+                wnavbar: "100vw",
             },
         },
     },
